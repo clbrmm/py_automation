@@ -44,6 +44,8 @@ py_automation/
 │   ├── test_error_reduction.py
 │   └── test_main_automation_script.py
 │
+├── README.md
+├── LICENSE
 └── requirements.txt
 ```
 
