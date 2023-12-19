@@ -1,0 +1,5 @@
+# requirements.txt - Dependencies for Py_Automation
+
+# Example dependencies, replace with actual versions as needed.
+requests==2.26.0
+# Add more dependencies as required for your project.
